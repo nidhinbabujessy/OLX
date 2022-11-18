@@ -1,0 +1,366 @@
+
+.firstrow{
+width: 100%;
+    display: flex;
+    align-items: center;
+}
+.secondrow{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.thirdrow{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.fourthrow{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.fifthrow{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.sixthrow{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.box1{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 135px;
+    margin-top: 20px;
+}
+.box2{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box3{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box4{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box5{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 135px;
+    margin-top: 15px;
+}
+.box6{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box7{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box8{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box9{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 135px;
+    margin-top: 15px;
+}
+.box10{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box11{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box12{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box13{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 135px;
+    margin-top: 15px;
+}
+.box14{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box15{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box16{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box17{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 135px;
+    margin-top: 15px;
+}
+.box18{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box19{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box20{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.box21{
+    width: 290px;
+    height: 260px;
+    background-color:white;
+    border-color:gray;
+    border-radius:6px;
+
+    border:2px groove;
+    margin-left: 135px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+ <div class="product">
+        <div class="firstrow">
+            <div class="box1">
+
+            
+            </div>
+            <div class="box2">
+
+            
+            </div>
+            <div class="box3">
+
+            
+            </div>
+            <div class="box4">
+
+            
+            </div>
+        </div>
+        <div class="secondrow">
+            <div class="box5">
+
+            
+            </div>
+            <div class="box6">
+
+            
+            </div>
+            <div class="box7">
+
+            
+            </div>
+            <div class="box8">
+
+            
+            </div>
+        </div>
+        <div class="thirdrow">
+            <div class="box9">
+
+            
+            </div>
+            <div class="box10">
+
+            
+            </div>
+            <div class="box11">
+
+            
+            </div>
+            <div class="box12">
+
+            
+            </div>
+        </div>
+        <div class="fourthrow">
+            <div class="box13">
+
+            
+            </div>
+            <div class="box14">
+
+            
+            </div>
+            <div class="box15">
+
+            
+            </div>
+            <div class="box16">
+
+            
+            </div>
+        </div>
+        <div class="fifthrow">
+            <div class="box17">
+
+            
+            </div>
+            <div class="box18">
+
+            
+            </div>
+            <div class="box19">
+
+            
+            </div>
+            <div class="box20">
+
+            
+            </div>
+        </div>
+        <div class="sixthhrow">
+                <div class="box21">
+    
+                
+                </div>
+            </div>
